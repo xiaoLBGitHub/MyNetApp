@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Net App</string>
+    <string name="left_btn">Left</string>
+    <string name="right_btn">Right</string>
+    <string name="forward_btn">Forward</string>
+    <string name="back_btn">Backward</string>
+    <string name="ip_txt">IP:</string>
+    <string name="port_txt">Port:</string>
+    <string name="ip_enter_hint">Enter target IP.</string>
+    <string name="port_enter_hint">Enter target port.</string>
+    <string name="menu_set_ip">SET</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="connect">"连接："</string>
+    <string name="save_btn">保存</string>
+    <string name="saved_ip">ip</string>
+    <string name="saved_port">port</string>
+</resources>
